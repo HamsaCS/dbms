@@ -8,6 +8,7 @@ View all existing contacts.
 Search for a contact by name.
 Update contact information.
 Delete a contact.
+
 **Installation**
 Make sure you have Python installed on your system. You can download it from python.org.
 
@@ -16,6 +17,7 @@ git clone https://github.com/HamsaCS/dbms.git
 
 Navigate to the project directory:
 cd contact-management
+
 **Usage**
 Run the application:
 python contact_manager.py
