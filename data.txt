@@ -1,0 +1,3 @@
+1 | ranajn | shetty | Male | 21 | bengaluru | 7483387809
+2 | varun | M | Male | 21 | hassan | 8861380288
+3 | hamsa | cs | Female | 20 | ckm | 9109292731
