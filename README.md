@@ -12,10 +12,10 @@ Delete a contact.
 **Installation**
 Make sure you have Python installed on your system. You can download it from python.org.
 
-Clone this repository to your local machine using:
+**Clone this repository to your local machine using:**
 git clone https://github.com/HamsaCS/dbms.git
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 cd contact-management
 
 **Usage**
